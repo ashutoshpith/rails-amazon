@@ -82,7 +82,7 @@ test:
 #     url: <%= ENV['DATABASE_URL'] %>
 #
 production:
-  adapter: postgresql
+  raiadapter: postgresql
   encoding: unicode
   database: amazon_test_production
   username: amazon_test
